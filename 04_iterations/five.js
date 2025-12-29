@@ -41,3 +41,5 @@ const myCoding = [
 myCoding.forEach( (language)=> {
     console.log(language.langaugeName, language.languageExtention)
 })
+
+// for each returns undefined by default
